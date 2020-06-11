@@ -49,3 +49,6 @@ Demo Images:
 http://unsplash.com
 http://pixeden.com
 
+Datepicker
+
+https://ng-bootstrap.github.io/#/components/datepicker/examples
